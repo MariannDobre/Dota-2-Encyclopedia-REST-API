@@ -9,7 +9,8 @@
     "base_health": 604,
     "base_mana": 476,
     "base_armor": 6,
-    "attack_range": 150
+    "attack_range": 150,
+    "character_lore": "Drow Ranger's given name is Traxex—a name well suited to the short, trollish, rather repulsive Drow people. But Traxex herself is not a Drow. Her parents were travelers in a caravan set upon by bandits, whose noisy slaughter of innocents roused the ire of the quiet Drow people."
   },
   {
     "id": 3,
@@ -21,7 +22,8 @@
     "base_health": 190,
     "base_mana": 100,
     "base_armor": 1,
-    "attack_range": 400
+    "attack_range": 400,
+    "character_lore": "Also known as Atropos, Bane was born from the midnight terrors of the goddess Nyctasha. A force of terror too powerful to be contained by sleep, he surfaced from her slumbers, fed upon her immortality, and stole his vaporous form from her inky blood. He is the essence of fear."
   },
   {
     "id": 4,
@@ -33,7 +35,8 @@
     "base_health": 205,
     "base_mana": 75,
     "base_armor": -0.1,
-    "attack_range": 150
+    "attack_range": 150,
+    "character_lore": "Strygwyr the Bloodseeker is a ritually sanctioned hunter, hound of the Flayed Twins, sent down from the mist-shrouded peaks of Xhacatocatl in search of blood. The Flayed Ones require oceanic amounts of blood to keep them sated and placated, and would soon drain their mountain empire of its populace if the priests of the high plateaus did not appease them."
   },
   {
     "id": 6,
@@ -45,7 +48,8 @@
     "base_health": 572,
     "base_mana": 191,
     "base_armor": 6,
-    "attack_range": 150
+    "attack_range": 150,
+    "character_lore": "Riki was born middle child to the great dynasty of Tahlin. With an older brother groomed for the throne, and a younger brother coddled and kept, Riki, the small middle son, seemed born for the art of invisibility. It was an art he cultivated, and one which ultimately saved his life on the night that his people were betrayed and his family slaughtered."
   },
   {
     "id": 7,
@@ -57,7 +61,8 @@
     "base_health": 618,
     "base_mana": 496,
     "base_armor": 4,
-    "attack_range": 575
+    "attack_range": 575,
+    "character_lore": "Lina is Rylai's older sister. The two have a sibling rivalry. In her youth, Lina's hair was often on fire. This still happens when she gets angry. Lina trained in the arts of flame as a child, including with acolytes of the Solar Goddess in the eastern Scintillant Waste. The acolytes believed her hair was 'touched by the light', and offered her trinkets to reflect the sun in her hair."
   },
   {
     "id": 8,
@@ -69,7 +74,8 @@
     "base_health": 700,
     "base_mana": 280,
     "base_armor": 3,
-    "attack_range": 150
+    "attack_range": 150,
+    "character_lore": "On the night of ultimate victory, Axe declared himself the new Red Mist General, and took on the ultimate title of 'Axe.' But his troops now numbered zero. Of course, many had died in battle, but a significant number had also fallen to Axe's blade. Needless to say, most soldiers now shun his leadership. But this matters not a whit to Axe, who knows that a one-man army is by far the best."
   },
   {
     "id": 9,
@@ -81,7 +87,8 @@
     "base_health": 550,
     "base_mana": 350,
     "base_armor": 1,
-    "attack_range": 600
+    "attack_range": 600,
+    "character_lore": "Born in a temperate realm, raised with her fiery older sister Lina, Rylai the Crystal Maiden soon found that her innate elemental affinity to ice created trouble for all those around her. Wellsprings and mountain rivers froze in moments if she stopped to rest nearby; ripening crops were bitten by frost, and fruiting orchards turned to mazes of ice and came crashing down, spoiled."
   },
   {
     "id": 10,
@@ -93,7 +100,8 @@
     "base_health": 650,
     "base_mana": 280,
     "base_armor": 2,
-    "attack_range": 150
+    "attack_range": 150,
+    "character_lore": "Yurnero the Juggernaut, named after the martial tradition that he swore to preserve and protect, is the last of his masked kind who drowned beneath the waves that deluged the ancient Isle of Masks. While his inanimate mask bears no readable expressions, each motion of his blade arm is an expression of a lost art that yearns to be remembered, and every ritual that he casts alone is but a shadow of the Isle's once lively and rich traditions."
   },
   {
     "id": 11,
@@ -105,7 +113,8 @@
     "base_health": 610,
     "base_mana": 290,
     "base_armor": 3,
-    "attack_range": 150
+    "attack_range": 150,
+    "character_lore": "The Phantom Assassin is a shadowy figure, feared and revered in equal measure. Her true name is unknown, and she is said to be the embodiment of death itself. Cloaked in darkness, she strikes swiftly and silently, leaving only the whisper of her blade in her wake."
   },
   {
     "id": 12,
@@ -117,7 +126,8 @@
     "base_health": 500,
     "base_mana": 400,
     "base_armor": 1,
-    "attack_range": 550
+    "attack_range": 550,
+    "character_lore": "Born in a temperate realm, Rylai the Crystal Maiden's innate elemental affinity to ice caused trouble for all those around her. Wellsprings and mountain rivers froze in moments if she stopped to rest nearby; ripening crops were bitten by frost, and fruiting orchards turned to mazes of ice and came crashing down, spoiled. To protect others, her parents sent her to the frozen realm of Icewrack. Under the guidance of a hermit wizard on the Blueheart Glacier, she mastered the Frozen Arts. When her training was complete, she remained in Icewrack, honing her magic until her control over ice became unmatched."
   },
   {
     "id": 13,
@@ -129,7 +139,8 @@
     "base_health": 620,
     "base_mana": 270,
     "base_armor": 2,
-    "attack_range": 150
+    "attack_range": 150,
+    "character_lore": "A warrior from the realm of the dead, the Phantom Lancer is a master of illusion and deception. He wields a spear forged from the essence of his fallen comrades, creating phantasmal copies of himself to confuse and overwhelm his enemies. His presence on the battlefield is a harbinger of doom, as his enemies are lost in a sea of illusions."
   },
   {
     "id": 14,
@@ -141,7 +152,8 @@
     "base_health": 560,
     "base_mana": 380,
     "base_armor": 1,
-    "attack_range": 550
+    "attack_range": 550,
+    "character_lore": "Zaghloul, known as Dazzle, is a master of the dark arts of necromancy. Once a healer in his village, he turned to forbidden practices to save his people from a deadly plague. Now, he weaves spells that mend wounds and curse foes, walking the fine line between life and death. His presence is both a boon and a warning."
   },
   {
     "id": 15,
@@ -153,7 +165,8 @@
     "base_health": 700,
     "base_mana": 300,
     "base_armor": 3,
-    "attack_range": 150
+    "attack_range": 150,
+    "character_lore": "Tiny, the Stone Giant, is a being of immense strength and simplicity. Born from the heart of a mountain, he is a force of nature, his body composed of rock and earth. Though often misunderstood due to his size and appearance, he is a gentle giant at heart, defending the innocent and crushing those who threaten peace."
   },
   {
     "id": 16,
@@ -165,7 +178,8 @@
     "base_health": 600,
     "base_mana": 340,
     "base_armor": 2,
-    "attack_range": 600
+    "attack_range": 600,
+    "character_lore": "Born to a royal family, a blood princess next in line for the Solar Throne, Mirana willingly surrendered any claim to mundane land or titles when she dedicated herself completely to the service of Selemene, Goddess of the Moon. Known ever since as Princess of the Moon, Mirana prowls the sacred Nightsilver Woods searching for any who would dare poach the sacred luminous lotus from the silvery pools of the goddess's preserve."
   },
   {
     "id": 17,
@@ -177,7 +191,8 @@
     "base_health": 610,
     "base_mana": 300,
     "base_armor": 2,
-    "attack_range": 570
+    "attack_range": 570,
+    "character_lore": "She was once the Scourge of the Plains, a merciless leader of men and beasts, and able to sow terror wherever she dared. Now she was far from her homeland, driven half mad from starvation and months of wandering, her army long dead or worse. As she stood at the edge of an ancient forest, a pair of glowing eyes spied on from an elder branch. Something beautiful and deadly sought a meal in the wilting dusk. Without a sound, it turned and left. Fury overtook her."
   },
   {
     "id": 18,
@@ -189,7 +204,8 @@
     "base_health": 580,
     "base_mana": 310,
     "base_armor": 2,
-    "attack_range": 600
+    "attack_range": 600,
+    "character_lore": "Kardel Sharpeye was born deep in the mountains of Knollen where, since time immemorial, Keen Folk have survived by hunting the strange, cliff-dwelling steepstalkers above their village, shooting them from a distance and collecting the carcasses where they fell. Sharpeye was among the best of these strange mountain keens for whom projectile weapons are but another appendage, and to shoot is as natural as to touch."
   },
   {
     "id": 19,
@@ -201,7 +217,8 @@
     "base_health": 710,
     "base_mana": 300,
     "base_armor": 3,
-    "attack_range": 150
+    "attack_range": 150,
+    "character_lore": "Sven is a rogue knight, half-Meranth by birth. After his father was executed for violating the Vigil Codex, Sven's mother passed away, leaving him an orphan. Tightly bound to his own personal code of honor, Sven is a solitary warrior who wields the legendary Outcast Blade to devastating effect. He travels alone, searching for honor and glory, while acquiring substantial gold as a freelance swordsman."
   },
   {
     "id": 20,
@@ -213,7 +230,8 @@
     "base_health": 530,
     "base_mana": 450,
     "base_armor": 1,
-    "attack_range": 550
+    "attack_range": 550,
+    "character_lore": "Lich was involved in the war raging in Roseleaf. He is technically not a direct participant, but he sees it as an embarrassment of riches, as the war has many opportunities for him to take while it goes on: Lion travels to Weeping Rose, seeking asylum in the city to protect himself from the Tyler Estate and the Court of Ristul. Crystal Maiden is on holiday, who may be residing somewhere within Weeping Rose due to her duties as an external collaborator with the Sapphire Conclave."
   },
   {
     "id": 21,
@@ -225,7 +243,8 @@
     "base_health": 540,
     "base_mana": 460,
     "base_armor": 1,
-    "attack_range": 550
+    "attack_range": 550,
+    "character_lore": "It is a body of magical knowledge learned over several lifetimes in the island highlands of Prefectura, now wielded with precise accuracy against his enemies. Witch Doctor is your best friend, or your worst enemy--healing allies and laying waste to all who oppose him."
   },
   {
     "id": 22,
@@ -237,7 +256,8 @@
     "base_health": 720,
     "base_mana": 280,
     "base_armor": 3,
-    "attack_range": 150
+    "attack_range": 150,
+    "character_lore": "Karroch was born a child of the stocks. His mother died in childbirth; his father, a farrier for the Last King of Slom, was trampled to death when he was five. Afterward Karroch was indentured to the king's menagerie, where he grew up among all the beasts of the royal court: lions, apes, fell-deer, and things less known, things barely believed in. When the lad was seven, an explorer brought in a beast like none before seen. Dragged before the King in chains, the beast spoke, though its mouth moved not."
   },
   {
     "id": 23,
@@ -249,7 +269,8 @@
     "base_health": 610,
     "base_mana": 370,
     "base_armor": 2,
-    "attack_range": 600
+    "attack_range": 600,
+    "character_lore": "The western forests guard their secrets well. One of these is Lyralei, master archer of the wood, and favored godchild of the wind. Known now as Windranger, Lyralei's family was killed in a storm on the night of her birth--their house blown down by the gale, contents scattered to the winds. Only the newborn survived among the debris field of death and destruction. In the quiet after the storm, the wind itself took notice of the lucky infant crying in the grass."
   },
   {
     "id": 24,
@@ -261,7 +282,8 @@
     "base_health": 730,
     "base_mana": 300,
     "base_armor": 3,
-    "attack_range": 150
+    "attack_range": 150,
+    "character_lore": "Rizzrack the Timberman is a gnome of great intellect and even greater eccentricity. He has an insatiable curiosity and a penchant for tinkering with dangerous machinery. His creations are often as hazardous to him as they are to his enemies, but his relentless pursuit of knowledge and innovation drives him forward."
   },
   {
     "id": 25,
@@ -273,7 +295,8 @@
     "base_health": 550,
     "base_mana": 500,
     "base_armor": 1,
-    "attack_range": 575
+    "attack_range": 575,
+    "character_lore": "Boush the Tinker is a gnome inventor with a flair for creating mechanical marvels. His gadgets and gizmos are as unpredictable as they are ingenious. Though often underestimated due to his size, Boush's intellect and inventive prowess make him a formidable force on the battlefield."
   },
   {
     "id": 26,
@@ -285,7 +308,8 @@
     "base_health": 560,
     "base_mana": 490,
     "base_armor": 1,
-    "attack_range": 550
+    "attack_range": 550,
+    "character_lore": "Phoenix is a mythical bird of fire and rebirth. With each death, it is reborn from its ashes, growing stronger and more radiant. Its presence is a symbol of hope and renewal, inspiring those who witness its fiery resurrection."
   },
   {
     "id": 27,
@@ -297,6 +321,7 @@
     "base_health": 710,
     "base_mana": 300,
     "base_armor": 3,
-    "attack_range": 150
+    "attack_range": 150,
+    "character_lore": "Raigor Stonehoof is a mighty earth spirit who commands the very ground beneath his feet. With his immense strength and seismic abilities, he can cause the earth to tremble and split, devastating his foes and reshaping the battlefield to his will."
   }
 ]
