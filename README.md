@@ -34,10 +34,9 @@ This backend, built entirely from scratch, works currently with a **JSON data fi
 
 ## 📁 File Structure
 
-/data
-└─ heroes.json # JSON file containing all hero data
-/server.js # Main Express server file
-.gitignore # Excluding node_modules, .env, logs, etc.
+- **/data** ─ heroes.json # JSON file containing all hero data
+- **/server.js** - # Main Express server file
+- **.gitignore** # Excluding node_modules, .env, logs, etc.
 
 > The data is intentionally visible in the repo to showcase full functionality and provide a **hands-on demonstration** for recruiters.
 
@@ -83,7 +82,7 @@ This repository is designed as **proof of my practical skills in backend develop
 1. Clone the repo:
 
 ```bash
-git clone https://github.com/your-username/dota2-heroes-api.git
+git clone https://github.com/MariannDobre/Dota-2-Encyclopedia-REST-API.git
 ```
 
 2. Install dependencies:
